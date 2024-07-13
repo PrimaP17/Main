@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471013851731",
+    "project_id": "axisnet-56a4d",
+    "storage_bucket": "axisnet-56a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471013851731:android:41929dca683912c20abca6",
+        "android_client_info": {
+          "package_name": "com.axisnet.clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL4BbSfnW2s7qwjVczD5wGZmXnEaEcHps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471013851731:android:41ffbea3373ed28c0abca6",
+        "android_client_info": {
+          "package_name": "com.example.tugas_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL4BbSfnW2s7qwjVczD5wGZmXnEaEcHps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
